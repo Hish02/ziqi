@@ -112,7 +112,7 @@
       <div class="container">
         <div class="header">疫情防控报备证明</div>
         <div id="time" class="time">2021/12/30 12:15:34</div>
-        <div class="counter">本页面当日访问<span id="count">47200</span>次</div>
+        <div class="counter">本页面当日访问<span id="count">24321</span>次</div>
         <div class="avatar">
           <img
             id="icon"
